@@ -28,7 +28,7 @@ Import the sales.sql file located in the database directory into your newly crea
 
 Start your web server (e.g., XAMPP, WAMP, or MAMP).
 
-Open your web browser and visit http://localhost/SalesProduct-report to access the application.
+Open your web browser and visit http://localhost/SalesProduct/index.php to access the application.
 
 ## Upload the sales data:
 
