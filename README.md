@@ -7,7 +7,6 @@ This project is a PHP-based web application for generating and analyzing product
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
