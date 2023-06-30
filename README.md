@@ -52,4 +52,15 @@ Identify the highest-selling product and its sales amount.
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 I hope this README template serves as a helpful starting point for your project's documentation! If you have any further questions or need additional assistance, feel free to ask.
+
+## Products
 ![Screenshot (612)](https://github.com/yashxjain/SalesProduct/assets/114987574/9f200029-b1f3-451d-a649-75b9431fde07)
+
+## Sales Data
+![Screenshot (613)](https://github.com/yashxjain/SalesProduct/assets/114987574/f5d04d21-0213-43a5-8355-c68413817c39)
+
+## Sales Report
+![Screenshot (614)](https://github.com/yashxjain/SalesProduct/assets/114987574/bcea978e-b17f-4381-8425-dd915b3a5832)
+
+## Sales Chart
+![Screenshot (615)](https://github.com/yashxjain/SalesProduct/assets/114987574/0395924b-b126-46fb-bb76-f11253aac63d)
