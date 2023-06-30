@@ -7,7 +7,7 @@ This project is a PHP-based web application for generating and analyzing product
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-
+- [Demo Images](#products)
 ## Installation
 
 1. Clone the repository:
