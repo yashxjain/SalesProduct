@@ -21,6 +21,7 @@
       background-color: #fff;
       padding: 20px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      text-align: center;
     }
 
     table {
@@ -64,9 +65,11 @@
       <input type="submit" name="import" value="CSV Import" class="btn" />
     </form>
     <h2>CSV Data Import</h2>
-    <a href="total_sales.php"><button class="btn sales" >Show Sales Data</button></a>
-    <a href="sales_report.php"><button class="btn sales" >Show Sales Report</button></a>
-    <a href="sales_chart.php"><button class="btn sales" >Show Sales Chart</button></a>
+    <div class="container">
+        <a href="total_sales.php"><button class="btn sales">Show Sales Data</button></a>
+        <a href="sales_report.php"><button class="btn sales">Show Sales Report</button></a>
+        <a href="sales_chart.php"><button class="btn sales">Show Sales Chart</button></a>
+    </div>
   </div>
   
  
