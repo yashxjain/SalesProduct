@@ -63,7 +63,7 @@
       <input type="file" name="csv_file" id="csv_file" accept=".csv" />
       <input type="submit" name="import" value="CSV Import" class="btn" />
     </form>
-    <h2>CSV Data</h2>
+    <h2>CSV Data Import</h2>
     <a href="total_sales.php"><button class="btn sales" >Show Sales Data</button></a>
     <a href="sales_report.php"><button class="btn sales" >Show Sales Report</button></a>
     <a href="sales_chart.php"><button class="btn sales" >Show Sales Chart</button></a>
