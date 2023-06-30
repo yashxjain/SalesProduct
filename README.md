@@ -15,9 +15,9 @@ This project is a PHP-based web application for generating and analyzing product
 ```bash
 git clone https://github.com/yashxjain/SalesProduct.git
 ```
-## Move the project files to your web server directory (e.g., htdocs for XAMPP).
+ Move the project files to your web server directory (e.g., htdocs for XAMPP).
 
-# Configure the database connection:
+ Configure the database connection:
 
 Open the db.php file located in the project's root directory.
 Update the database credentials with your own database server details.
