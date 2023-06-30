@@ -30,7 +30,8 @@ Start your web server (e.g., XAMPP, WAMP, or MAMP).
 
 Open your web browser and visit http://localhost/SalesProduct/index.php to access the application.
 
-## Upload the sales data:
+## Usage 
+Upload the sales data:
 
 Click on the "Choose File" button.
 Select a CSV file containing the sales data.
