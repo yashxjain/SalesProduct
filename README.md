@@ -54,13 +54,13 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 I hope this README template serves as a helpful starting point for your project's documentation! If you have any further questions or need additional assistance, feel free to ask.
 
 ## Products
-![Screenshot (612)](https://github.com/yashxjain/SalesProduct/assets/114987574/9f200029-b1f3-451d-a649-75b9431fde07)
+![Screenshot (619)](https://github.com/yashxjain/SalesProduct/assets/114987574/46434582-a69a-4767-ba9e-69d352183bb1)
 
 ## Sales Data
-![Screenshot (613)](https://github.com/yashxjain/SalesProduct/assets/114987574/f5d04d21-0213-43a5-8355-c68413817c39)
+![Screenshot (618)](https://github.com/yashxjain/SalesProduct/assets/114987574/ddc5b82e-56d6-461f-89f1-6e8f4bed9c62)
 
 ## Sales Report
-![Screenshot (614)](https://github.com/yashxjain/SalesProduct/assets/114987574/bcea978e-b17f-4381-8425-dd915b3a5832)
+![Screenshot (617)](https://github.com/yashxjain/SalesProduct/assets/114987574/745dea67-9454-4336-8a5e-67b9e29038f3)
 
 ## Sales Chart
-![Screenshot (615)](https://github.com/yashxjain/SalesProduct/assets/114987574/0395924b-b126-46fb-bb76-f11253aac63d)
+![Screenshot (616)](https://github.com/yashxjain/SalesProduct/assets/114987574/83b0afd5-acd7-474d-bd7f-e5e1cc9648b5)
