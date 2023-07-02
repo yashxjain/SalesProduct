@@ -53,7 +53,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 I hope this README template serves as a helpful starting point for your project's documentation! If you have any further questions or need additional assistance, feel free to ask.
 
-## Pro
+## Products
 ![Screenshot (621)](https://github.com/yashxjain/SalesProduct/assets/114987574/33e664cc-19d8-4943-9738-1319143bb0ff)
 
 ## Sales Data
